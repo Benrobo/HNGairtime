@@ -2,6 +2,10 @@ body {
 	margin: 0;
 	padding: 0;
 }
+tr{
+	border: none !important;
+	color: #fff;
+}
 .q {
 	text-align: center;
 }
